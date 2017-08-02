@@ -1,0 +1,23 @@
+name: Family Life Solutions
+analytics: {}
+content_rating:
+  adult: false
+github: true
+description: Helping couples discern how to get their groove back
+opengraph: {}
+title: 'Marriage Counseling and Couples Therapy '
+author:
+  name: 'Thomas Mahan, Ph.D.'
+  url: www.flsmahan.com
+  email: thomas@marriagediscernment.com
+color:
+  lightness: 0.1560437865918604
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.768457127913939
+  brandStrength: 0.9176659341709842
+  rhythmicContrast: 0.3950152402732091
